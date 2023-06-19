@@ -1,7 +1,8 @@
-<div align="right" style="display: flex;align-items: center;justify-content: space-between;">
-  <h4 align="left" style="margin: 0;">Hi there 👋</h4>
+<div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=malikozturkk.malikozturkk&right_color=mediumaquamarine&left_text=profile"  />
 </div>
+
+<h4 align="left">Hi there 👋</h4>
 
 ###
 
