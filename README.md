@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=malikozturkk.malikozturkk&right_color=mediumaquamarine&left_text=profile"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=malikozturkk.malikozturkk&right_color=mediumaquamarine&left_text=profile views"  />
 </div>
 
 <h4 align="left">Hi there 👋</h4>
