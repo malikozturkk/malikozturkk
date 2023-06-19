@@ -8,7 +8,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/malikozturkk/malikozturkk/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/malikozturkk/malikozturkk/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
