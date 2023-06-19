@@ -1,10 +1,8 @@
 <div align="right">
+  <h4 align="left">Hi there 👋</h4>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=malikozturkk.malikozturkk&right_color=mediumaquamarine&left_text=profile"  />
 </div>
 
-###
-
-<h4 align="left">Hi there 👋</h4>
 
 ###
 
