@@ -8,10 +8,6 @@
 
 ###
 
-<img src="https://github.com/malikozturkk/malikozturkk/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">📍  I'm currently working at Enuygun</p>
 
 ###
