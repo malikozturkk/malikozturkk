@@ -35,8 +35,8 @@
 </div>
 
 ###
-###
-###
+
+
 
 <p align="left">🛠️   Tech Stack</p>
 
@@ -127,8 +127,8 @@
 </div>
 
 ###
-###
-###
+
+
 
 <h3 align="center">📈 Stats</h3>
 
