@@ -35,6 +35,8 @@
 </div>
 
 ###
+###
+###
 
 <p align="left">🛠️   Tech Stack</p>
 
@@ -124,6 +126,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
 
+###
+###
 ###
 
 <h3 align="center">📈 Stats</h3>
