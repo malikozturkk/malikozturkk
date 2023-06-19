@@ -126,7 +126,7 @@
 
 ###
 
-<p align="left">📈 Stats</p>
+<p align="center">📈 Stats</p>
 
 ###
 
