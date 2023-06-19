@@ -1,4 +1,5 @@
 ### 📍 I'm currently working at Enuygun
+### 📬 Say hi! malikozturk975@gmail.com
 
 <!--
 **malikozturkk/malikozturkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
