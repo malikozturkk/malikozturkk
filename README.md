@@ -12,11 +12,11 @@
 
 ###
 
-<h6 align="left">📍  I'm currently working at Enuygun</h6>
+<p align="left">📍  I'm currently working at Enuygun</p>
 
 ###
 
-<h6 align="left">📬 Say hi! malikozturk975@gmail.com</h6>
+<p align="left">📬 Say hi! malikozturk975@gmail.com</p>
 
 ###
 
