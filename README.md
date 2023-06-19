@@ -1,4 +1,14 @@
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=malikozturkk.malikozturkk&right_color=mediumaquamarine&left_text=profile views"  />
+</div>
+
+###
+
 <h4 align="left">Hi there 👋</h4>
+
+###
+
+<img src="https://raw.githubusercontent.com/malikozturkk/malikozturkk/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -123,8 +133,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malikozturkk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malikozturkk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=malikozturkk&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malikozturkk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=malikozturkk&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@malikozturkk&theme=radical" alt="Layout with last medium posts"  />
 </div>
 
 ###
