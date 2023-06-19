@@ -1,7 +1,3 @@
-<img src="https://raw.githubusercontent.com/malikozturkk/malikozturkk/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h4 align="left">Hi there 👋</h4>
 
 ###
